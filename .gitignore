@@ -1,0 +1,10 @@
+/frontend/node_modules/
+/frontend/build/
+/frontend/storybook-static/
+/backend/node_modules/
+/backend/logs/
+**/*.env
+.vscode
+.DS_Store
+.github/
+/frontend/*.log
